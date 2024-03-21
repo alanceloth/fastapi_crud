@@ -1,0 +1,1 @@
+export PATH="$PATH:/c/Users/alanceloth/AppData/Roaming/Python/Scripts"
